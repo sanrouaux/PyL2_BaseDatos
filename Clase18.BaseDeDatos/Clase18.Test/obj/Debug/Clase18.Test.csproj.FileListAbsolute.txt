@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\bin\Debug\Clase18.Test.exe.config
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\bin\Debug\Clase18.Test.exe
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\bin\Debug\Clase18.Test.pdb
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\bin\Debug\Clase18.BaseDeDatos.dll
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\bin\Debug\Clase18.BaseDeDatos.pdb
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\bin\Debug\Clase18.BaseDeDatos.dll.config
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\obj\Debug\Clase18.Test.csprojAssemblyReference.cache
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\obj\Debug\Clase18.Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\obj\Debug\Clase18.Test.csproj.CopyComplete
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\obj\Debug\Clase18.Test.exe
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.Test\obj\Debug\Clase18.Test.pdb

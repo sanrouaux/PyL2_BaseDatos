@@ -1,0 +1,7 @@
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\bin\Debug\Clase18.BaseDeDatos.dll.config
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\bin\Debug\Clase18.BaseDeDatos.dll
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\bin\Debug\Clase18.BaseDeDatos.pdb
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\obj\Debug\Clase18.BaseDeDatos.csprojAssemblyReference.cache
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\obj\Debug\Clase18.BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\obj\Debug\Clase18.BaseDeDatos.dll
+D:\VisualStudio\Clase18.BaseDeDatos\Clase18.BaseDeDatos\obj\Debug\Clase18.BaseDeDatos.pdb
